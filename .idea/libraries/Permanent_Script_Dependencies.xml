@@ -18,6 +18,7 @@
       <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2023.2/kotlin-jupyter/kernelProcess/ideLib/http4k-core-4.34.3.0.jar" />
       <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2023.2/kotlin-jupyter/kernelProcess/ideLib/kotlin-jupyter-common-dependencies-0.12.0-55.jar" />
       <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2023.3/kotlinNotebook/adventcode2023.20f7c803/kernels/0.12.0-93/kotlin-jupyter-ide-classpath-shadowed-jar/kotlin-jupyter-ide-classpath-shadowed-0.12.0-93.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/io/github/p-org/solvers/z3/4.8.14-v5/z3-4.8.14-v5.jar" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
@@ -35,6 +36,7 @@
       <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2023.2/kotlin-jupyter/kernelProcess/libSources/kotlin-jupyter-lib-0.12.0-55-sources.jar" />
       <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2023.2/kotlin-jupyter/kernelProcess/libSources/kotlin-stdlib-jdk8-1.8.0-sources.jar" />
       <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2023.3/kotlinNotebook/adventcode2023.20f7c803/kernels/0.12.0-93/kotlin-jupyter-script-classpath-shadowed-sources-jar/kotlin-jupyter-script-classpath-shadowed-0.12.0-93-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/io/github/p-org/solvers/z3/4.8.14-v5/z3-4.8.14-v5-sources.jar" />
     </SOURCES>
   </library>
 </component>
